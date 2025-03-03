@@ -1,0 +1,3 @@
+groq = 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
+openai = sk-proj-OaASQuvarLDGg9IRg161T3BlbkFJrVpfYx93fXQVmZy7Nb4F
+google_ai_studio = AIzaSyB6duc5rcWBxpIptvxBpnJrIe2oW1ZfOg8
